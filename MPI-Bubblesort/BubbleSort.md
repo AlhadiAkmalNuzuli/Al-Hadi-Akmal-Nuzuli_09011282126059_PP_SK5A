@@ -1,5 +1,9 @@
 # MPI-Bubblesort menggunakan Python
 Tugas Pemrosesan Paralel MPI Bubblesort
+1. Al Hadi Akmal Nuzuli       09011282126059
+2. Muhammad Azrell Samudra    09011282126063
+3. Hatta Efrizal              09011282126041 
+4. Raihan                     09011182126023 
 
 # Langkah-Langkah Membuat Cluster MPI pada 1 Master dan 3 Worker yaitu :
 1. Siapkan 4 device laptop yang dimana 1 laptop bertindak sebagai master, 3 lainnya sebagai worker. Pastikan keempat device ini terhubung pada 1 jaringan internet yang sama.
